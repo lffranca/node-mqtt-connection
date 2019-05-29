@@ -1,0 +1,23 @@
+{
+  "name": "0wl-node-api",
+  "version": "1.0.0",
+  "description": "0wl node api",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/0wl-/0wl-node-api.git"
+  },
+  "author": "Lucas França <lucas@0wl.com.br>",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/0wl-/0wl-node-api#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "dependencies": {
+    "mqtt": "^2.18.8"
+  }
+}
